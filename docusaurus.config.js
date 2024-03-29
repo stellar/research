@@ -59,13 +59,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/Stellar Logo RGB_BLACK.png',
       navbar: {
-        // title: 'SDF Research',
         logo: {
           alt: 'Stellar Logo',
-          src: 'img/Stellar Logo RGB_BLACK.png',
+          src: 'img/stellar-logo.svg',
+          srcDark: 'img/stellar-logo-dark.svg',
         },
         items: [
         ],

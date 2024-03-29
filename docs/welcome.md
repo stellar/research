@@ -7,4 +7,3 @@ slug: /
 # Research at the Stellar Development Foundation
 
 The Stellar Development Foundation supports technological and scientific research through its in-house research team and its academic grants program.
-
