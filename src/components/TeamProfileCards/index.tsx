@@ -29,21 +29,11 @@ import Translate from '@docusaurus/Translate';
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 
-function WebsiteLink({to, children}: {to: string; children?: ReactNode}) {
-  return (
-    <Link to={to}>
-      {children ?? (
-        <Translate id="team.profile.websiteLinkLabel">website</Translate>
-      )}
-    </Link>
-  );
-}
-
 type ProfileProps = {
   className?: string;
   name: string;
   children: ReactNode;
-  githubUrl: string;
+  githubUrl?: string;
   twitterUrl?: string;
   websiteUrl?: string;
 };
@@ -63,7 +53,7 @@ function TeamProfileCard({
           <div className="avatar avatar--vertical">
             <img
               className="avatar__photo avatar__photo--xl"
-              src={`${githubUrl}.png`}
+              src={githubUrl ? `${githubUrl}.png` : `img/${name}.png`}
               alt={`${name}'s avatar`}
             />
             <div className="avatar__intro">
@@ -112,12 +102,38 @@ export function ActiveTeamRow(): JSX.Element {
         githubUrl="https://github.com/nano-o"
         twitterUrl="https://twitter.com/giuliano_losa"
         websiteUrl="https://www.losa.fr">
-        <Translate
-          id="team.profile.Giuliano Losa.body">
-          {
-            'Researcher specializing in distributed computing and formal methods'
-          }
-        </Translate>
+        Distributed computing and formal methods
+      </TeamProfileCardCol>
+    </div>
+  );
+}
+
+export function Consultants(): JSX.Element {
+  return (
+    <div className="row">
+      <TeamProfileCardCol
+        name="Eli Gafni"
+        websiteUrl="https://samueli.ucla.edu/people/eliezer-gafni">
+        Theory of distributed computing
+      </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Mohsen Lesani"
+        websiteUrl="https://mohsenlesani.github.io/">
+        Reliability and security of software systems
+      </TeamProfileCardCol>
+    </div>
+  );
+}
+
+export function Alumni(): JSX.Element {
+  return (
+    <div className="row">
+      <TeamProfileCardCol
+        name="George Pîrlea"
+        githubUrl="https://github.com/dranov"
+        twitterUrl="https://twitter.com/GeorgePirlea"
+        websiteUrl="https://pirlea.net/">
+        Research intern
       </TeamProfileCardCol>
     </div>
   );
