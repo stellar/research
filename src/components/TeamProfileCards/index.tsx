@@ -104,6 +104,11 @@ export function ActiveTeamRow(): JSX.Element {
         websiteUrl="https://www.losa.fr">
         Distributed computing and formal methods
       </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Iftach Haitner"
+        websiteUrl="https://www.cs.tau.ac.il//~iftachh/">
+        Cryptography and Computational Complexity
+      </TeamProfileCardCol>
     </div>
   );
 }
