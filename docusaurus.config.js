@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'SDF Research',
   tagline: 'Scientific and technological research at the Stellar Development Foundation',
-  // favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://research.stellar.org',
