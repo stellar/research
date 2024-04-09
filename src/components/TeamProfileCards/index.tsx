@@ -109,6 +109,11 @@ export function ActiveTeamRow(): JSX.Element {
         websiteUrl="https://www.cs.tau.ac.il//~iftachh/">
         Cryptography and Computational Complexity
       </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="David Mazières"
+        websiteUrl="https://www.scs.stanford.edu/~dm/">
+        Chief Scientist at the SDF
+      </TeamProfileCardCol>
     </div>
   );
 }
