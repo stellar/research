@@ -1,4 +1,0 @@
----
-bibliography: sample.bib
-nocite: "@*"
----
