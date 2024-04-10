@@ -45,6 +45,7 @@ function TeamProfileCard({
   githubUrl,
   twitterUrl,
   websiteUrl,
+  localAvatar,
 }: ProfileProps) {
   return (
     <div className={className}>
@@ -53,7 +54,7 @@ function TeamProfileCard({
           <div className="avatar avatar--vertical">
             <img
               className="avatar__photo avatar__photo--xl"
-              src={githubUrl ? `${githubUrl}.png` : `img/${name}.png`}
+              src={localAvatar ? `img/${name}.png` : `${githubUrl}.png`}
               alt={`${name}'s avatar`}
             />
             <div className="avatar__intro">
@@ -106,11 +107,13 @@ export function ActiveTeamRow(): JSX.Element {
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="Iftach Haitner"
+        localAvatar="true"
         websiteUrl="https://www.cs.tau.ac.il//~iftachh/">
         Cryptography and Computational Complexity
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="David Mazières"
+        localAvatar="true"
         websiteUrl="https://www.scs.stanford.edu/~dm/">
         Chief Scientist at the SDF
       </TeamProfileCardCol>
@@ -123,11 +126,13 @@ export function Consultants(): JSX.Element {
     <div className="row">
       <TeamProfileCardCol
         name="Eli Gafni"
+        localAvatar="true"
         websiteUrl="https://samueli.ucla.edu/people/eliezer-gafni">
         Theory of distributed computing
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="Mohsen Lesani"
+        localAvatar="true"
         websiteUrl="https://mohsenlesani.github.io/">
         Reliability and security of software systems
       </TeamProfileCardCol>
@@ -144,6 +149,13 @@ export function Alumni(): JSX.Element {
         twitterUrl="https://twitter.com/GeorgePirlea"
         websiteUrl="https://pirlea.net/">
         Research intern
+      </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Murdoch James Gabbay"
+        localAvatar="true"
+        githubUrl="https://github.com/bellissimogiorno/"
+        websiteUrl="https://gabbay.org.uk/">
+        Research consultant
       </TeamProfileCardCol>
     </div>
   );
