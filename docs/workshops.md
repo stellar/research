@@ -11,12 +11,12 @@ We help organize workshops that bring scientists together and spur scientific pr
 ## FRIDA 2024
 
 [Swen Jacobs](https://cispa.de/en/people/swen.jacobs) (CISPA Helmholtz Center for Information Security) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) are organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io/), co-located with CAV 2024.
-The work is scheduled to take place in Montreal, Canada, on July 23rd, 2024.
+The workshop is scheduled to take place in Montreal, Canada, on July 23rd, 2024.
 
 ## Past workshops
 
 ### HTDS 2023
 
-The [The Workshop on Heterogeneous Trust in Distributed Systems](https://htds-workshop.github.io/) took place in October 2023 in Princeton, New Jersey, and was organized by Christian Cachin (University of Bern) and Giuliano Losa (Stellar Development Foundation).
+The [The Workshop on Heterogeneous Trust in Distributed Systems](https://htds-workshop.github.io/) took place in October 2023 in Princeton, New Jersey, and was organized by [Christian Cachin](https://crypto.unibe.ch/cc/) (University of Bern) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation).
 Video recordings of the talks are [available on Youtube](https://youtube.com/playlist?list=PLmr3tp_7-7GjHjTeBSdTu5P15Wde3YMf0&si=0LlHA1DTrLT_e07b).
 
