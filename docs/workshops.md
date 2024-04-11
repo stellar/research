@@ -10,7 +10,7 @@ We help organize workshops that bring scientists together and spur scientific pr
 
 ## FRIDA 2024
 
-[Swen Jacobs](https://cispa.de/en/people/swen.jacobs) (CISPA) and [Giuliano Losa](https://www.losa.fr) (SDF) are organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io/), co-located with CAV 2024.
+[Swen Jacobs](https://cispa.de/en/people/swen.jacobs) (CISPA Helmholtz Center for Information Security) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) are organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io/), co-located with CAV 2024.
 The work is scheduled to take place in Montreal, Canada, on July 23rd, 2024.
 
 ## Past workshops
