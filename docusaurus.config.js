@@ -75,7 +75,7 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      image: 'img/stellar-logo.svg',
+      image: 'img/Stellar-logo-black.png',
     }),
 };
 
