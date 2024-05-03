@@ -74,7 +74,7 @@ function TeamProfileCard({
             )}
             {twitterUrl && (
               <Link className="button button--secondary" href={twitterUrl}>
-                Twitter
+                X/Twitter
               </Link>
             )}
             {websiteUrl && (
@@ -114,6 +114,8 @@ export function ActiveTeamRow(): JSX.Element {
       <TeamProfileCardCol
         name="David Mazières"
         localAvatar="true"
+        githubUrl="https://github.com/stanford-scs"
+        twitterUrl="https://twitter.com/dmazieres"
         websiteUrl="https://www.scs.stanford.edu/~dm/">
         Chief Scientist at the SDF
       </TeamProfileCardCol>
