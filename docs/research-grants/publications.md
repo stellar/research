@@ -6,6 +6,12 @@ slug: /research-grants/publications
 
 # Publications acknowledging SDF funding
 
+Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang. "Threshold Encryption with Silent Setup." Cryptology ePrint Archive (2024). https://eprint.iacr.org/2024/263
+
+Arka Rai Choudhuri, Sanjam Garg, Julien Piet, and Guru-Vamsi Policharla. "Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses." Cryptology ePrint Archive (2024). https://eprint.iacr.org/2024/669
+
+Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang. "Cryptography with weights: MPC, encryption and signatures." Annual International Cryptology Conference. 2022. https://link.springer.com/chapter/10.1007/978-3-031-38557-5_10
+
 Leemon Baird, Sanjam Garg, Abhishek Jain, Pratyay Mukherjee, Rohit Sinha, Mingyuan Wang, and Yinuo Zhang. 2023. “Threshold Signatures in the Multiverse.” In *2023 IEEE Symposium on Security and Privacy (SP)*, 1454–70. https://doi.org/10.1109/SP46215.2023.10179436.
 
 Hanwen Feng and Qiang Tang. 2023. “Witness Authenticating NIZKs and Applications.” 2023. https://eprint.iacr.org/2023/1276.
