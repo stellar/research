@@ -119,6 +119,13 @@ export function ActiveTeamRow(): JSX.Element {
         websiteUrl="https://www.scs.stanford.edu/~dm/">
         Chief Scientist at the SDF
       </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Yunqi Zhang"
+        localAvatar="true"
+        githubUrl="https://github.com/yunqizhang99"
+        websiteUrl="https://yunqiz.com/">
+        Research Intern on overlay networks
+      </TeamProfileCardCol>
     </div>
   );
 }
