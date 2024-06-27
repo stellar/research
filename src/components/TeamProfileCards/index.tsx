@@ -159,13 +159,6 @@ export function Alumni(): JSX.Element {
         websiteUrl="https://pirlea.net/">
         Research intern
       </TeamProfileCardCol>
-      <TeamProfileCardCol
-        name="Murdoch James Gabbay"
-        localAvatar="true"
-        githubUrl="https://github.com/bellissimogiorno/"
-        websiteUrl="https://gabbay.org.uk/">
-        Research consultant
-      </TeamProfileCardCol>
     </div>
   );
 }
