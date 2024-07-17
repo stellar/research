@@ -169,3 +169,7 @@ select[data-testid="example-pairing-select"] {
 .sidebar-category-items-hidden ul {
   display: none !important;
 }
+
+.pagination-nav {
+display: none;
+}
