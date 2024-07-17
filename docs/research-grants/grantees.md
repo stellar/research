@@ -6,6 +6,10 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q1 2024
+* [Peter Müller](https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html), Practical Rust Verification
+* [Pratik Soni](https://users.cs.utah.edu/~psoni/) and [Sri AravindaKrishnan Thyagarajan](https://sites.google.com/view/sak-thyagarajan), Functional Payments from Adaptor Signatures
+
 ## Q4 2023
 * [Amit Levy](https://www.amitlevy.com/) ([Princeton University](https://www.princeton.edu/)), Interoperating in a World of Decentralized Applications
 * [Christian Cachin](https://crypto.unibe.ch/cc/) ([UNIBE](https://www.unibe.ch/)), Efficiency of Anonymous and Private Decentralized Payments
