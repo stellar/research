@@ -29,7 +29,7 @@ We review grant proposals quarterly.
 The submission deadlines are March 31, June 30, September 30, and December 31.
 There is a limit of maximum 2 submissions per calendar year.
 
-Proposals should be no longer than 5 pages in at least 11-point type, and should use the following outline:
+Proposals should be no longer than 3 pages in at least 11-point type, and should use the following outline:
 
 - Title
 - Abstract
