@@ -6,6 +6,15 @@ slug: /publications
 
 # Publications co-authored by SDF researchers
 
+Qianyu Yu, Giuliano Losa, and Xuechao Wang. "TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 257-267. 2024.
+https://dl.acm.org/doi/abs/10.1145/3662158.3662783
+
+D'Amato, Francesco, Giuliano Losa, and Luca Zanolini. "Asynchrony-Resilient Sleepy Total-Order Broadcast Protocols." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 247-256. 2024.
+https://dl.acm.org/doi/abs/10.1145/3662158.3662779
+
+Losa, Giuliano, and Eli Gafni. "Brief Announcement: Understanding Read-Write Wait-Free Coverings in the Fully-Anonymous Shared-Memory Model." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 465-468. 2024.
+https://dl.acm.org/doi/abs/10.1145/3662158.3662786
+
 Eli Gafni and Giuliano Losa. “Brief Announcement: Byzantine Consensus Under Dynamic Participation with a Well-Behaved Majority.” In *37th International Symposium on Distributed Computing (DISC 2023)*. https://doi.org/10.4230/LIPIcs.DISC.2023.41
 
 Eli Gafni and Giuliano Losa. “Invited Paper: Time Is Not a Healer, but It Sure Makes Hindsight 20:20.” In *Stabilization, Safety, and Security of Distributed Systems*, 2023

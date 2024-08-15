@@ -6,6 +6,11 @@ slug: /news
 
 # News
 
+## Workshop on Formal Reasoning in Distributed Algorithms
+August 13th, 2024
+
+Slides of the presentations are now available on the [workshop's website](https://frida-2024.github.io/).
+
 ## 3 papers accepted at the [PODC 2024](https://www.podc.org/podc2024/) conference!
 April 22nd, 2024
 
