@@ -6,6 +6,10 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q2 2024
+
+* [Aayush Jain](https://sites.google.com/view/aayushjain/home) (CMU), Post-Quantum Threshold Signatures for the Blockchain
+
 ## Q1 2024
 * [Peter Müller](https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html) ([ETH](https://ethz.ch/en.html)), Practical Rust Verification
 * [Pratik Soni](https://users.cs.utah.edu/~psoni/) ([The University of Utah](https://www.cs.utah.edu/)) and [Sri AravindaKrishnan Thyagarajan](https://sites.google.com/view/sak-thyagarajan) ([The University of Sydney](https://www.sydney.edu.au/)), Functional Payments from Adaptor Signatures
