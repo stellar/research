@@ -77,6 +77,16 @@ const config = {
       },
       image: 'img/Stellar-logo-black.png',
     }),
+
+  plugins: [
+    [
+      '@docusaurus/plugin-google-analytics',
+      {
+        trackingID: 'G-6JZER5SZ4H',
+        anonymizeIP: true, // Optional, to anonymize IP addresses
+      },
+    ],
+  ]
 };
 
 export default config;
