@@ -9,6 +9,7 @@ slug: /research-grants/grantees
 ## Q2 2024
 
 * [Aayush Jain](https://sites.google.com/view/aayushjain/home) (CMU), Post-Quantum Threshold Signatures for the Blockchain
+* [Ilya Sergey](https://ilyasergey.net/) (National University of Singapore), Combining Interactive and Automated Proofs about Distributed Protocols in Lean
 
 ## Q1 2024
 * [Peter Müller](https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html) ([ETH](https://ethz.ch/en.html)), Practical Rust Verification
