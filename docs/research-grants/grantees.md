@@ -10,6 +10,7 @@ slug: /research-grants/grantees
 
 * [Aayush Jain](https://sites.google.com/view/aayushjain/home) (CMU), Post-Quantum Threshold Signatures for the Blockchain
 * [Ilya Sergey](https://ilyasergey.net/) (National University of Singapore), Combining Interactive and Automated Proofs about Distributed Protocols in Lean
+* [Ooi Beng Chin](https://www.comp.nus.edu.sg/~ooibc/) and [Ho Nhut Minh](https://www.comp.nus.edu.sg/~minhhn/) (National University of Singapore), Parallel Execution of Wasm Smart Contracts on Nvidia GPUs
 
 ## Q1 2024
 * [Peter Müller](https://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html) ([ETH](https://ethz.ch/en.html)), Practical Rust Verification
