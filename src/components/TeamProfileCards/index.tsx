@@ -120,11 +120,11 @@ export function ActiveTeamRow(): JSX.Element {
         Chief Scientist at the SDF
       </TeamProfileCardCol>
       <TeamProfileCardCol
-        name="Yunqi Zhang"
+        name="Patrick Redmond"
         localAvatar="true"
-        githubUrl="https://github.com/yunqizhang99"
-        websiteUrl="https://yunqiz.com/">
-        Research Intern on overlay networks
+        githubUrl="https://github.com/plredmond"
+        websiteUrl="https://curious.software/plr/">
+        Research Intern in formal methods for distributed systems assurance
       </TeamProfileCardCol>
     </div>
   );
@@ -153,11 +153,18 @@ export function Alumni(): JSX.Element {
   return (
     <div className="row">
       <TeamProfileCardCol
+        name="Yunqi Zhang"
+        localAvatar="true"
+        githubUrl="https://github.com/yunqizhang99"
+        websiteUrl="https://yunqiz.com/">
+        Research Intern on overlay networks
+      </TeamProfileCardCol>
+      <TeamProfileCardCol
         name="George Pîrlea"
         githubUrl="https://github.com/dranov"
         twitterUrl="https://twitter.com/GeorgePirlea"
         websiteUrl="https://pirlea.net/">
-        Research intern
+        Research intern in formal methods for smart contracts assurance
       </TeamProfileCardCol>
     </div>
   );
