@@ -6,6 +6,10 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q3 2024
+* [Mu Zhang](https://sites.google.com/site/muzhang82/) (University of Utah), Detecting Logical Flaws in Smart Contract Bytecode
+* [Eyal Ronen](https://eyalro.net/) (Tel-Aviv University), Privacy Preserving Attestation and Post-Compromise Security for MPC Crypto Wallets
+
 ## Q2 2024
 
 * [Aayush Jain](https://sites.google.com/view/aayushjain/home) (CMU), Post-Quantum Threshold Signatures for the Blockchain
