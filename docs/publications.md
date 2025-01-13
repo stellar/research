@@ -11,10 +11,10 @@ slug: /publications
 Qianyu Yu, Giuliano Losa, and Xuechao Wang. "TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 257-267. 2024.
 https://dl.acm.org/doi/abs/10.1145/3662158.3662783
 
-D'Amato, Francesco, Giuliano Losa, and Luca Zanolini. "Asynchrony-Resilient Sleepy Total-Order Broadcast Protocols." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 247-256. 2024.
+Francesco D'Amato, Giuliano Losa, and Luca Zanolini. "Asynchrony-Resilient Sleepy Total-Order Broadcast Protocols." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 247-256. 2024.
 https://dl.acm.org/doi/abs/10.1145/3662158.3662779
 
-Losa, Giuliano, and Eli Gafni. "Brief Announcement: Understanding Read-Write Wait-Free Coverings in the Fully-Anonymous Shared-Memory Model." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 465-468. 2024.
+Giuliano Losa and Eli Gafni. "Brief Announcement: Understanding Read-Write Wait-Free Coverings in the Fully-Anonymous Shared-Memory Model." In Proceedings of the 41rd ACM Symposium on Principles of Distributed Computing, pp. 465-468. 2024.
 https://dl.acm.org/doi/abs/10.1145/3662158.3662786
 
 Murdoch James Gabbay and Giuliano Losa. “Semitopology: Distributed Collaborative Action via Topology, Algebra, and Logic.” January 16, 2024. https://doi.org/10.48550/arXiv.2402.03253.
