@@ -126,6 +126,12 @@ export function ActiveTeamRow(): JSX.Element {
         websiteUrl="https://curious.software/plr/">
         Research Intern in formal methods for distributed systems assurance
       </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Joseph Tafese"
+        localAvatar="true"
+        githubUrl="https://github.com/jetafese">
+        Research Intern in formal verification of Rust code
+      </TeamProfileCardCol>
     </div>
   );
 }
