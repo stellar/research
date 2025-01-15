@@ -128,7 +128,6 @@ export function ActiveTeamRow(): JSX.Element {
       </TeamProfileCardCol>
       <TeamProfileCardCol
         name="Joseph Tafese"
-        localAvatar="true"
         githubUrl="https://github.com/jetafese">
         Research Intern in formal verification of Rust code
       </TeamProfileCardCol>
