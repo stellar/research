@@ -9,6 +9,7 @@ slug: /research-grants/grantees
 ## Q3 2024
 * [Mu Zhang](https://sites.google.com/site/muzhang82/) (University of Utah), Detecting Logical Flaws in Smart Contract Bytecode
 * [Eyal Ronen](https://eyalro.net/) (Tel-Aviv University), Privacy Preserving Attestation and Post-Compromise Security for MPC Crypto Wallets
+* [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/) (University of Washington), Advancing Privacy-Preserving Authentication
 
 ## Q2 2024
 
