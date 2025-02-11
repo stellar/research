@@ -9,7 +9,7 @@ slug: /news
 ## Two new research papers accepted for publication
 February 11th, 2025
 
-* Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/),. [Preprint](https://eprint.iacr.org/2024/397)
+* Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
 * Yifan Mao (Ohio State University), Yunqi Zhang (Ohio State University), Giulian Losa (Stellar Development Foundation), and Shaileshh Bojja Venkatakrishnan (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). Preprint coming soon.
 
 ## Workshop on Formal Reasoning in Distributed Algorithms
