@@ -23,6 +23,8 @@ Topics of interest include but are not limited to:
 - Governance of distributed systems
 - Smart contracts languages
 
+Proposals should propose to make novel scientific contributions, and activities such a literature reviews are not in scope (we expect PIs to be experts in the fields of the proposal).
+
 ## Applying for a grant
 
 We review grant proposals quarterly.
@@ -40,6 +42,8 @@ Proposals should be no longer than 3 pages in at least 11-point type, and should
 - When known, please name the student or post-doc interested in participating in the research
 - Statement of intent not to patent the results, including a brief description of the principal investigator’s track record in patenting or not patenting research
 - Bibliography
+
+If you have previously received an academic research grant from the SDF, please also report on the outcomes of your previous grant.
 
 Awards will be provided as unrestricted gifts intended for an individual with PI status at an academic institution.
 The funds are intended to support the cost of one graduate student or one post-doc for 12 months, plus reasonable expenses such as conference travel.
