@@ -11,7 +11,7 @@ slug: /publications
 
 Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. To appear in [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
 
-Yifan Mao (Ohio State University), Yunqi Zhang (Ohio State University), Giulian Losa (Stellar Development Foundation), and Shaileshh Bojja Venkatakrishnan (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. To appear in [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
+Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. To appear in [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
 
 ## 2024
 
