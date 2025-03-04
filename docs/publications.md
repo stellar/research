@@ -6,6 +6,13 @@ slug: /publications
 
 # Publications co-authored by SDF researchers
 
+## 2025
+
+
+Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. To appear in [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
+
+Yifan Mao (Ohio State University), Yunqi Zhang (Ohio State University), Giulian Losa (Stellar Development Foundation), and Shaileshh Bojja Venkatakrishnan (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. To appear in [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
+
 ## 2024
 
 Qianyu Yu, Giuliano Losa, and Xuechao Wang. "TetraBFT: Reducing Latency of Unauthenticated, Responsive BFT Consensus." In Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing, pp. 257-267. 2024.
