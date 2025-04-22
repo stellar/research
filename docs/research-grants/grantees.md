@@ -6,6 +6,11 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q4 2024
+* [Ke Wu](https://kewucs.com/) (University of Michigan), Collusion Resistance For Transaction Fee Mechanisms
+* [Aniket Kate](https://www.cs.purdue.edu/homes/akate/) (Purdue) and [Chen-Da Liu Zhang](https://sites.google.com/view/chendaliu) (Lucerne University of Applied Sciences and Arts), Lightweight Secure Distributed Computing: Design and Development
+* [Alon Rosen](https://faculty.unibocconi.eu/alonrosen/) (Bocconi University), A New Approach to Verifying Computations on the Blockchain
+
 ## Q3 2024
 * [Mu Zhang](https://sites.google.com/site/muzhang82/) (University of Utah), Detecting Logical Flaws in Smart Contract Bytecode
 * [Eyal Ronen](https://eyalro.net/) (Tel-Aviv University), Privacy Preserving Attestation and Post-Compromise Security for MPC Crypto Wallets
