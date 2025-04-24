@@ -4,7 +4,11 @@ sidebar_position: 2
 slug: /research-grants/publications
 ---
 
-# Publications acknowledging SDF funding
+# Publications supported (in part or whole) by SDF funding
+
+Zachary Grannan, Aurel Bílý, Jonáš Fiala, Jasper Geer, Markus de Medeiros, Peter Müller, Alexander J. Summers. "Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees". https://arxiv.org/abs/2503.21691
+
+Federico Poli, Xavier Denis, Peter Müller, Alexander J. Summers. "Reasoning about Interior Mutability in Rust using Library-Defined Capabilities". https://arxiv.org/abs/2405.08372
 
 Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang. "Threshold Encryption with Silent Setup." Cryptology ePrint Archive (2024). https://eprint.iacr.org/2024/263
 
