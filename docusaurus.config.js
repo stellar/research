@@ -63,7 +63,9 @@ const config = {
         logo: {
           alt: 'Stellar Logo',
           src: 'img/stellar-logo.svg',
-          srcDark: 'img/stellar-logo-dark.svg',
+            srcDark: 'img/stellar-logo-dark.svg',
+            href: 'https://stellar.org',
+            target: '_self',
         },
         items: [
         ],
