@@ -119,18 +119,6 @@ export function ActiveTeamRow(): JSX.Element {
         websiteUrl="https://www.scs.stanford.edu/~dm/">
         Chief Scientist at the SDF
       </TeamProfileCardCol>
-      <TeamProfileCardCol
-        name="Patrick Redmond"
-        localAvatar="true"
-        githubUrl="https://github.com/plredmond"
-        websiteUrl="https://curious.software/plr/">
-        Research Intern in formal methods for distributed systems assurance
-      </TeamProfileCardCol>
-      <TeamProfileCardCol
-        name="Joseph Tafese"
-        githubUrl="https://github.com/jetafese">
-        Research Intern in formal verification of Rust code
-      </TeamProfileCardCol>
     </div>
   );
 }
@@ -157,6 +145,18 @@ export function Consultants(): JSX.Element {
 export function Alumni(): JSX.Element {
   return (
     <div className="row">
+      <TeamProfileCardCol
+        name="Joseph Tafese"
+        githubUrl="https://github.com/jetafese">
+        Research Intern in formal verification of Rust code
+      </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Patrick Redmond"
+        localAvatar="true"
+        githubUrl="https://github.com/plredmond"
+        websiteUrl="https://curious.software/plr/">
+        Research Intern in formal methods for distributed systems assurance
+      </TeamProfileCardCol>
       <TeamProfileCardCol
         name="Yunqi Zhang"
         localAvatar="true"
