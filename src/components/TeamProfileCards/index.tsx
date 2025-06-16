@@ -108,7 +108,7 @@ export function ActiveTeamRow(): JSX.Element {
       <TeamProfileCardCol
         name="Iftach Haitner"
         localAvatar="true"
-        websiteUrl="https://www.cs.tau.ac.il//~iftachh/">
+        websiteUrl="https://iftachh.github.io/MyHomepage/">
         Cryptography and Computational Complexity
       </TeamProfileCardCol>
       <TeamProfileCardCol
