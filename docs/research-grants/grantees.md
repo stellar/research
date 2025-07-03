@@ -6,7 +6,7 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
-## Q1 2024
+## Q1 2025
 * [Kartik Nayak](https://users.cs.duke.edu/~kartik/) (Duke University), Analytical Model for Analyzing Leader-based and DAG-based Protocols
 * [Rishab Goyal](https://pages.cs.wisc.edu/~rishab/) (University of Wisconsin-Madison), Post-Quantum Homomorphic Commitments, Zero-Knowledge Proofs and Applications
 * [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley), Fully Private Smart Contracts via Collaborative zkSNARKs
