@@ -46,3 +46,6 @@ slug: /research-grants/grantees
 
 ## Q2 2023
 * [Shaileshh Bojja Venkatakrishnan](https://sites.google.com/site/shaileshhbv/) ([OSU](https://engineering.osu.edu/)), Efficient Gossip and Topology Design in the Stellar Peer-to-Peer Network
+* [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (TU Delft), Feedback-guided Fault Injection Testing of Blockchain Systems
+* [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) (University of California, Santa Cruz), Choreographic Consensus
+* [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/), A Systematic Approach to Mempool Transaction Privacy
