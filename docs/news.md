@@ -8,7 +8,7 @@ slug: /news
 
 ## We are looking for a Director of Research
 
-Please see the [job posting](https://job-boards.greenhouse.io/stellar/jobs/5536324004?gh_src=c6a48b034us).
+Please see the [job posting](https://jobs.ashbyhq.com/stellar/4cada7d9-0387-45d4-8965-6783690cf720).
 
 ## Two new research papers accepted for publication
 February 11th, 2025
