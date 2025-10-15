@@ -10,6 +10,13 @@ slug: /news
 
 Please see the [job posting](https://jobs.ashbyhq.com/stellar/4cada7d9-0387-45d4-8965-6783690cf720).
 
+## Three new research papers accepted for publication
+October 15th, 2025
+
+* *Optimistic, Signature-Free Reliable Broadcast and Its Applications*. Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)). [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761)
+* *From OT to OLE with Subquadratic Communication*. Jack Doerner (Brown, UVa), Iftach Haitner (TAU, Stellar Foundation), Yuval Ishai (Technion, Amazon/AWS), Nikolaos Makriyannis (Fireblocks). [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
+* *A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC*. Joseph Tafese (University of Waterloo), Siddharth Priya (University of Waterloo), Giuliano Losa (Stellar Development Foundation), Arie Gurfinkel (University of Waterloo), and Graydon Hoare (Stellar Development Foundation). [FMCAD 2025](https://fmcad.org/FMCAD25/)
+
 ## Two new research papers accepted for publication
 February 11th, 2025
 
