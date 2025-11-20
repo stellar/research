@@ -8,12 +8,15 @@ slug: /workshops
 
 We help organize workshops that bring scientists together and spur scientific progress.
 
+## FRIDA 2025
+
+[Setphan Merz](https://members.loria.fr/Stephan.Merz/) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) organized the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/).
+The workshop was co-located with DISC 2025 and took place in Berlin, Germay, on October 27th, 2025.
+
 ## FRIDA 2024
 
-[Swen Jacobs](https://cispa.de/en/people/swen.jacobs) (CISPA Helmholtz Center for Information Security) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) are organizing the [Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io/), co-located with CAV 2024.
-The workshop is scheduled to take place in Montreal, Canada, on July 23rd, 2024.
-
-## Past workshops
+[Swen Jacobs](https://cispa.de/en/people/swen.jacobs) (CISPA Helmholtz Center for Information Security) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) organized the [11th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2024.github.io/).
+The workshop was co-located with CAV 2024 and took place in Montreal, Canada, on July 23rd, 2024.
 
 ### HTDS 2023
 
