@@ -10,7 +10,7 @@ We help organize workshops that bring scientists together and spur scientific pr
 
 ## FRIDA 2025
 
-[Setphan Merz](https://members.loria.fr/Stephan.Merz/) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) organized the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/).
+[Setphan Merz](https://members.loria.fr/Stephan.Merz/) (University of Lorraine, CNRS, Inria, Nancy, France) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) organized the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/).
 The workshop was co-located with DISC 2025 and took place in Berlin, Germay, on October 27th, 2025.
 
 ## FRIDA 2024
