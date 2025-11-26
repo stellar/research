@@ -10,6 +10,8 @@ slug: /research-grants/grantees
 * [Akshayaram Srinivasan](https://www.cs.toronto.edu/~akshayaram/) (University of Toronto), New Constructions of Non-Interactive Zero-Knowledge Proofs
 * [Zachary Feinstein](https://www.stevens.edu/profile/zfeinste) (Stevens Institute of Technology) and [Maxim Bichuch](https://www.buffalo.edu/cas/math/people/faculty/bichuch.html) (University at Buffalo), Automated Market Maker Design to Optimize Liquidity Providers' Returns
 * [Arie Gurfinkel](https://arieg.bitbucket.io/) (University of Waterloo), Beyond Rust Type Safety with SeaBMC
+* [Vassilis Zikas](https://faculty.cc.gatech.edu/~vzikas/) (Georgia Tech), Efficient Preprocessing PIR
+with Sequential Updates for Privacy-Preserving (Light) Blockchain Clients 
 
 ## Q1 2025
 * [Kartik Nayak](https://users.cs.duke.edu/~kartik/) (Duke University), Analytical Model for Analyzing Leader-based and DAG-based Protocols
