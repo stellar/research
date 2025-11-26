@@ -6,6 +6,8 @@ slug: /research-grants/publications
 
 # Publications supported (in part or whole) by SDF funding
 
+George Pîrlea, Vladimir Gladshtein, Elad Kinsbruner, Qiyuan Zhao, and Ilya Sergey. "Veil: A Framework for Automated and Interactive Verification of Transition Systems". CAV 2025. https://link.springer.com/chapter/10.1007/978-3-031-98682-6_2
+
 Mako Bates, Shun Kashiwa, Syed Jafri, Gan Shen, Lindsey Kuper, and Joseph P. Near. "Efficient, portable, census-polymorphic choreographic programming". PLDI 2025. https://dl.acm.org/doi/abs/10.1145/3729296
 
 Zachary Grannan, Aurel Bílý, Jonáš Fiala, Jasper Geer, Markus de Medeiros, Peter Müller, Alexander J. Summers. "Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees". https://arxiv.org/abs/2503.21691
