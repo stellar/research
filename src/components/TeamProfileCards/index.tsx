@@ -132,12 +132,6 @@ export function Consultants(): JSX.Element {
         websiteUrl="https://samueli.ucla.edu/people/eliezer-gafni">
         Theory of distributed computing
       </TeamProfileCardCol>
-      <TeamProfileCardCol
-        name="Mohsen Lesani"
-        localAvatar="true"
-        websiteUrl="https://mohsenlesani.github.io/">
-        Reliability and security of software systems
-      </TeamProfileCardCol>
     </div>
   );
 }
@@ -170,6 +164,12 @@ export function Alumni(): JSX.Element {
         twitterUrl="https://twitter.com/GeorgePirlea"
         websiteUrl="https://pirlea.net/">
         Research intern in formal methods for smart contracts assurance
+      </TeamProfileCardCol>
+      <TeamProfileCardCol
+        name="Mohsen Lesani"
+        localAvatar="true"
+        websiteUrl="https://mohsenlesani.github.io/">
+        Reliability and security of software systems
       </TeamProfileCardCol>
     </div>
   );
