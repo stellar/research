@@ -9,8 +9,8 @@ slug: /news
 ## Two new research papers accepted for publication
 November 20st, 2025
 
-* *Fast Deterministically Safe Proof-of-Work Consensus*.     Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/). [Preprint](/pdfs/sieve-preprint.pdf).
-* *Solving Tasks with Fewer Registers than Processes*. Eli Gafni (UCLA), Giuliano Losa (Stellar Development Foundation), Michel Raynal (Univ. Rennes, Inria, CNRS, IRISA), and Gadi Taubenfeld (Reichman University), [OPODIS 2025](https://conferences.info.uaic.ro/opodis2025/)
+* *[Fast Deterministically Safe Proof-of-Work Consensus](https://arxiv.org/abs/2512.19968)*.     Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/).
+* *[Solving Tasks with Fewer Registers than Processes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21)*. Eli Gafni (UCLA), Giuliano Losa (Stellar Development Foundation), Michel Raynal (Univ. Rennes, Inria, CNRS, IRISA), and Gadi Taubenfeld (Reichman University), [OPODIS 2025](https://conferences.info.uaic.ro/opodis2025/)
 
 ## We are looking for a Director of Research
 

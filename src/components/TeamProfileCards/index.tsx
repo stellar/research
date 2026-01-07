@@ -169,7 +169,7 @@ export function Alumni(): JSX.Element {
         name="Mohsen Lesani"
         localAvatar="true"
         websiteUrl="https://mohsenlesani.github.io/">
-        Reliability and security of software systems
+        Consultant in reliability and security of software systems
       </TeamProfileCardCol>
     </div>
   );
