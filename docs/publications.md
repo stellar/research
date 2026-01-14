@@ -8,11 +8,11 @@ slug: /publications
 
 ## 2025
 
-Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)), "Optimistic, Signature-Free Reliable Broadcast and Its Applications", [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761).
+Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)), ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://dl.acm.org/doi/10.1145/3719027.3765220), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761).
 
-Jack Doerner (Brown, UVa), Iftach Haitner (TAU, Stellar Foundation), Yuval Ishai (Technion, Amazon/AWS), Nikolaos Makriyannis (Fireblocks), "From OT to OLE with Subquadratic Communication", [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
+Jack Doerner (Brown, UVa), Iftach Haitner (TAU, Stellar Foundation), Yuval Ishai (Technion, Amazon/AWS), Nikolaos Makriyannis (Fireblocks), ["From OT to OLE with Subquadratic Communication"](https://doi.org/10.1145/3719027.3765225), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
 
-Joseph Tafese (University of Waterloo), Siddharth Priya (University of Waterloo), Giuliano Losa (Stellar Development Foundation), Arie Gurfinkel (University of Waterloo), and Graydon Hoare (Stellar Development Foundation), "A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC", [FMCAD 2025](https://fmcad.org/FMCAD25/)
+Joseph Tafese (University of Waterloo), Siddharth Priya (University of Waterloo), Giuliano Losa (Stellar Development Foundation), Arie Gurfinkel (University of Waterloo), and Graydon Hoare (Stellar Development Foundation), ["A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC"](https://repositum.tuwien.at/bitstream/20.500.12708/219563/1/Tafese%20Joseph%20-%202025%20-%20A%20Tale%20of%20Two%20Case%20Studies%20A%20Unified%20Exploration%20of%20Rust...pdf), [FMCAD 2025](https://fmcad.org/FMCAD25/)
 
 
 Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. To appear in [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
