@@ -6,6 +6,8 @@ slug: /research-grants/publications
 
 # Publications supported (in part or whole) by SDF funding
 
+Vladimir Gladshtein, George Pîrlea, Qiyuan Zhao, Vitaly Kurin, and Ilya Sergey. "Foundational Multi-Modal Program Verifiers." Proceedings of the ACM on Programming Languages (PACMPL). 2026. https://doi.org/10.1145/3776719
+
 George Pîrlea, Vladimir Gladshtein, Elad Kinsbruner, Qiyuan Zhao, and Ilya Sergey. "Veil: A Framework for Automated and Interactive Verification of Transition Systems". CAV 2025. https://link.springer.com/chapter/10.1007/978-3-031-98682-6_2
 
 Mako Bates, Shun Kashiwa, Syed Jafri, Gan Shen, Lindsey Kuper, and Joseph P. Near. "Efficient, portable, census-polymorphic choreographic programming". PLDI 2025. https://dl.acm.org/doi/abs/10.1145/3729296
@@ -13,6 +15,11 @@ Mako Bates, Shun Kashiwa, Syed Jafri, Gan Shen, Lindsey Kuper, and Joseph P. Nea
 Zachary Grannan, Aurel Bílý, Jonáš Fiala, Jasper Geer, Markus de Medeiros, Peter Müller, Alexander J. Summers. "Place Capability Graphs: A General-Purpose Model of Rust's Ownership and Borrowing Guarantees". https://arxiv.org/abs/2503.21691
 
 Federico Poli, Xavier Denis, Peter Müller, Alexander J. Summers. "Reasoning about Interior Mutability in Rust using Library-Defined Capabilities". https://arxiv.org/abs/2405.08372
+
+Nikhil Vanjani, Pratik Soni, and Sri Aravinda Krishnan Thyagarajan. "Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments." CCS 2024. https://doi.org/10.1145/3658644.3690240
+
+Ya-Nan Li, Tian Qiu, and Qiang Tang. "Pisces: Private and Compliable Cryptocurrency Exchange." NDSS 2024. https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/
+
 
 Sanjam Garg, Dimitris Kolonelos, Guru-Vamsi Policharla, and Mingyuan Wang. "Threshold Encryption with Silent Setup." Cryptology ePrint Archive (2024). https://eprint.iacr.org/2024/263
 
