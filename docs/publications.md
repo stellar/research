@@ -14,6 +14,9 @@ Niv Buchbinder, Iftach Haitner, Nissan Levi, and Eliad Tsfadia. ["Fair Coin Flip
 
 ## 2025
 
+
+Jack Tigar Humphries, Neel Natu, Kostis Kaffes, Stanko Novaković, Paul Turner, Henry M. Levy, David Culler, and Christos Kozyrakis. [Wave: Offloading Resource Management to SmartNIC Cores](https://dl.acm.org/doi/abs/10.1145/3676642.3736113). *ASPLOS 2025*
+
 Eli Gafni, Giuliano Losa, Michel Raynal, and Gadi Taubenfeld. ["Solving Tasks with Fewer Registers Than Processes"](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21). In *29th International Conference on Principles of Distributed Systems (OPODIS 2025)*.
 
 Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)), ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://dl.acm.org/doi/10.1145/3719027.3765220), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761).
