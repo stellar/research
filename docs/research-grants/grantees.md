@@ -6,6 +6,13 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q3 2025
+* [Nir Bitansky](https://sites.google.com/view/nirbitansky) (NYU), Dot-Product Proofs: Toward Optimal Succinctness
+* [Suyash Gupta](https://gupta-suyash.github.io/) (U. Oregon), Efficient Historical (Range) Queries for Stellar
+* [Michael Walfish](https://cs.nyu.edu/~mwalfish/) (NYU), Zero-knowledge numerical proofs
+* [David Wu](https://www.cs.utexas.edu/~dwu4/) (UT Austin), Silent Threshold Cryptography
+* [Daoyuan Wu](https://daoyuan14.github.io/) (Lingnan University), LLM-Driven Specification Verification for Stellar's Consensus Protocol
+
 ## Q2 2025
 * [Akshayaram Srinivasan](https://www.cs.toronto.edu/~akshayaram/) (University of Toronto), New Constructions of Non-Interactive Zero-Knowledge Proofs
 * [Zachary Feinstein](https://www.stevens.edu/profile/zfeinste) (Stevens Institute of Technology) and [Maxim Bichuch](https://www.buffalo.edu/cas/math/people/faculty/bichuch.html) (University at Buffalo), Automated Market Maker Design to Optimize Liquidity Providers' Returns
