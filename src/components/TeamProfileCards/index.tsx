@@ -136,6 +136,19 @@ export function Consultants(): JSX.Element {
   );
 }
 
+export function Interns(): JSX.Element {
+  return (
+    <div className="row">
+      <TeamProfileCardCol
+        name="Juan Villacis"
+        localAvatar="true"
+        websiteUrl="https://crypto.unibe.ch/jv/">
+        Distributed computing in asymmetric-trust models
+      </TeamProfileCardCol>
+    </div>
+  );
+}
+
 export function Alumni(): JSX.Element {
   return (
     <div className="row">
