@@ -27,7 +27,12 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -51,6 +56,11 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        // GA4 property. Must be the gtag plugin, not the old
+        // plugin-google-analytics, which only speaks Universal Analytics.
+        gtag: {
+          trackingID: 'G-6JZER5SZ4H',
         },
       }),
     ],
@@ -79,16 +89,6 @@ const config = {
       },
       image: 'img/Stellar-logo-black.png',
     }),
-
-  plugins: [
-    [
-      '@docusaurus/plugin-google-analytics',
-      {
-        trackingID: 'G-6JZER5SZ4H',
-        anonymizeIP: true, // Optional, to anonymize IP addresses
-      },
-    ],
-  ]
 };
 
 export default config;
