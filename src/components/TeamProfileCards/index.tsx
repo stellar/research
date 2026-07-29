@@ -36,6 +36,7 @@ type ProfileProps = {
   githubUrl?: string;
   twitterUrl?: string;
   websiteUrl?: string;
+  localAvatar?: boolean | string;
 };
 
 function TeamProfileCard({
@@ -136,22 +137,38 @@ export function Consultants(): JSX.Element {
   );
 }
 
-export function Interns(): JSX.Element {
+// Current interns. Add an entry here when an intern starts, and move them to
+// Alumni when they finish. While this list is empty, the "Interns" heading on
+// the welcome page is hidden along with the (otherwise empty) row of cards.
+const currentInterns: ProfileProps[] = [];
+
+export function Interns(): JSX.Element | null {
+  if (currentInterns.length === 0) {
+    return null;
+  }
   return (
-    <div className="row">
-      <TeamProfileCardCol
-        name="Juan Villacis"
-        localAvatar="true"
-        websiteUrl="https://crypto.unibe.ch/jv/">
-        Distributed computing in asymmetric-trust models
-      </TeamProfileCardCol>
-    </div>
+    <>
+      <Heading as="h3" id="interns">
+        Interns
+      </Heading>
+      <div className="row">
+        {currentInterns.map((intern) => (
+          <TeamProfileCardCol key={intern.name} {...intern} />
+        ))}
+      </div>
+    </>
   );
 }
 
 export function Alumni(): JSX.Element {
   return (
     <div className="row">
+      <TeamProfileCardCol
+        name="Juan Villacis"
+        localAvatar="true"
+        websiteUrl="https://crypto.unibe.ch/jv/">
+        Research Intern on distributed computing in asymmetric-trust models
+      </TeamProfileCardCol>
       <TeamProfileCardCol
         name="Joseph Tafese"
         githubUrl="https://github.com/jetafese">
