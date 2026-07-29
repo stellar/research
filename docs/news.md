@@ -6,9 +6,11 @@ slug: /news
 
 # News
 
-## New research paper accepted for publication
+## New research papers accepted 
+July 29th, 2026
 
-[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847), accepted at CCS 2026
+* *[Monotone Erasure Codes](https://arxiv.org/abs/2605.22426)*. Vivien Bammert, Annalisa Cimatti, Orestis Alpos, Giuliano Losa, and Christian Cachin, accepted at the [IEEE Information Theory Workshop (ITW 2026)](https://2026.ieee-itw.org/).
+* *[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847)*, accepted at CCS 2026
 
 ## We are looking for a Director of Research
 

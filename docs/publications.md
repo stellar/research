@@ -8,7 +8,15 @@ slug: /publications
 
 ## 2026
 
-Ali Farahbakhsh, Giuliano Losa, Youer Pu, Lorenzo Alvisi, and Ittay Eyal. ["Fast Deterministically Safe Proof-of-Work Consensus"](https://arxiv.org/abs/2512.19968). arXiv preprint (2026).
+Qianyu Yu, Giuliano Losa, Nibesh Shrestha, and Xuechao Wang. ["Angelfish: Leader, DAG, or Anywhere in Between"](https://arxiv.org/abs/2509.15847). To appear in *CCS 2026*.
+
+Joseph Tafese, Karthik Nukala, Hassen Saidi, Natarajan Shankar, Arie Gurfinkel, and Giuliano Losa. "Show Me The Money: An Exercise in Proof-Driven Software Understanding". To appear in [CAV 2026](https://conferences.i-cav.org/2026/).
+
+Vivien Bammert, Annalisa Cimatti, Orestis Alpos, Giuliano Losa, and Christian Cachin. ["Monotone Erasure Codes"](https://arxiv.org/abs/2605.22426). To appear in [IEEE Information Theory Workshop (ITW 2026)](https://2026.ieee-itw.org/).
+
+Ali Farahbakhsh, Giuliano Losa, Youer Pu, and Lorenzo Alvisi. ["Fast Deterministically Safe Proof-of-Work Consensus"](https://doi.org/10.1109/SP63933.2026.00102). In *IEEE Symposium on Security and Privacy (S&P 2026)*. [arXiv version](https://arxiv.org/abs/2512.19968).
+
+Qianyu Yu, Juan Villacis, Giuliano Losa, Zhuolun Xiang, and Xuechao Wang. ["Simple-IT: Practical Low-Latency Signature-Free BFT Consensus"](https://arxiv.org/abs/2606.14404). arXiv preprint (2026).
 
 Niv Buchbinder, Iftach Haitner, Nissan Levi, and Eliad Tsfadia. ["Fair Coin Flipping: Tighter Analysis and the Many-Party Case"](https://doi.org/10.1007/s00145-025-09561-6). *Journal of Cryptology* 39(1):4 (2026).
 
