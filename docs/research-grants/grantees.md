@@ -6,6 +6,10 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q1 2026
+
+* [Omer Paneth](https://www.cs.tau.ac.il/~omerpa/) (Tel Aviv University), Provable Security in SNARKs: Proof Composition and More from Standard Assumptions
+
 ## Q4 2025
 * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) (University of California, Santa Cruz), Ironwright: A Bridge from Bounded Model Checking to Full Verification
 * [Pedro Branco](https://sites.google.com/view/pmbranco), IE University, New Routes for Post-Quantum Threshold Cryptography
