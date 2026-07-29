@@ -6,15 +6,19 @@ slug: /news
 
 # News
 
-## Two new research papers accepted for publication
-November 20st, 2025
+## New research paper accepted for publication
 
-* *[Fast Deterministically Safe Proof-of-Work Consensus](https://arxiv.org/abs/2512.19968)*.     Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/).
-* *[Solving Tasks with Fewer Registers than Processes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21)*. Eli Gafni (UCLA), Giuliano Losa (Stellar Development Foundation), Michel Raynal (Univ. Rennes, Inria, CNRS, IRISA), and Gadi Taubenfeld (Reichman University), [OPODIS 2025](https://conferences.info.uaic.ro/opodis2025/)
+[Angelfish: Leader, DAG, or Anywhere in Between](https://arxiv.org/abs/2509.15847), accepted at CCS 2026
 
 ## We are looking for a Director of Research
 
 Please see the [job posting](https://jobs.ashbyhq.com/stellar/4cada7d9-0387-45d4-8965-6783690cf720).
+
+## Two new research papers accepted for publication
+November 20th, 2025
+
+* *[Fast Deterministically Safe Proof-of-Work Consensus](https://arxiv.org/abs/2512.19968)*.     Ali Farahbakhsh (Cornell University),  Giuliano Losa (Stellar Foundation), Youer Pu (Cornell University), and Lorenzo Alvisi (Cornell University). [IEEE Symposium on Security and Privacy (S&P 2026)](https://sp2026.ieee-security.org/).
+* *[Solving Tasks with Fewer Registers than Processes](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21)*. Eli Gafni (UCLA), Giuliano Losa (Stellar Development Foundation), Michel Raynal (Univ. Rennes, Inria, CNRS, IRISA), and Gadi Taubenfeld (Reichman University), [OPODIS 2025](https://conferences.info.uaic.ro/opodis2025/)
 
 ## Three new research papers accepted for publication
 October 15th, 2025
@@ -27,7 +31,7 @@ October 15th, 2025
 February 11th, 2025
 
 * Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
-* Giulian Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
+* Giuliano Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems. [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
 
 ## Workshop on Formal Reasoning in Distributed Algorithms
 August 13th, 2024
