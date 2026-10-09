@@ -140,7 +140,14 @@ export function Consultants(): JSX.Element {
 // Current interns. Add an entry here when an intern starts, and move them to
 // Alumni when they finish. While this list is empty, the "Interns" heading on
 // the welcome page is hidden along with the (otherwise empty) row of cards.
-const currentInterns: ProfileProps[] = [];
+const currentInterns: ProfileProps[] = [
+  {
+    name: 'Ziyang Jin',
+    githubUrl: 'https://github.com/ziyang-theory',
+    websiteUrl: 'https://www.cs.toronto.edu/~ziyang/',
+    children: 'Research Intern in cryptography',
+  },
+];
 
 export function Interns(): JSX.Element | null {
   if (currentInterns.length === 0) {
