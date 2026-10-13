@@ -6,11 +6,17 @@ slug: /research-grants/grantees
 
 # Awarded research grants by quarter
 
+## Q2 2026
+
+* [Alexander Hoover](https://axhoover.com/about) (Stevens Institute of Technology), Private Information Retrieval for Blockchain Clients: Efficient, Updatable, and Authenticated Constructions
+* [Saba Eskandarian](https://www.cs.unc.edu/~saba/) (University of North Carolina at Chapel Hill) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/) (Duke University), Efficient Multiparty Private Set Union
+
 ## Q1 2026
 
 * [Omer Paneth](https://www.cs.tau.ac.il/~omerpa/) (Tel Aviv University), Provable Security in SNARKs: Proof Composition and More from Standard Assumptions
 * [Chris Brzuska](https://chrisbrzuska.de/) (Aalto University), DOMINO: Cryptographic Proofs Which Scale
 * [Ioannis Demertzis](https://idemertzis.com/) (University of California, Santa Cruz), Mitigating Side-Channel and Leakage-Abuse Attacks via Scalable Oblivious Primitives
+* [Ruizhe Jia](https://rj2536.github.io/) (Stanford University), Market Microstructure and Incentive Design for Perpetual Decentralized Exchanges
 
 ## Q4 2025
 * [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/) (University of California, Santa Cruz), Ironwright: A Bridge from Bounded Model Checking to Full Verification
