@@ -8,6 +8,11 @@ slug: /workshops
 
 We help organize workshops that bring scientists together and spur scientific progress.
 
+## FRIDA 2027
+
+[Brijesh Dongol](https://popl27.sigplan.org/profile/brijeshdongol) (University of Surrey) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) are organizing the [13th Workshop on Formal Reasoning in Distributed Algorithms](https://popl27.sigplan.org/home/frida-2027).
+The workshop is co-located with POPL 2027 and will take place in Mexico City, Mexico, on January 11th, 2027.
+
 ## FRIDA 2025
 
 [Setphan Merz](https://members.loria.fr/Stephan.Merz/) (University of Lorraine, CNRS, Inria, Nancy, France) and [Giuliano Losa](https://www.losa.fr) (Stellar Development Foundation) organized the [12th Workshop on Formal Reasoning in Distributed Algorithms](https://frida-2025.github.io/).

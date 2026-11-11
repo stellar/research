@@ -6,6 +6,11 @@ slug: /news
 
 # News
 
+## FRIDA 2027 at POPL
+November 11th, 2026
+
+Giuliano Losa is co-organizing, with Brijesh Dongol (University of Surrey), the [13th Workshop on Formal Reasoning in Distributed Algorithms (FRIDA 2027)](https://popl27.sigplan.org/home/frida-2027), co-located with POPL 2027 in Mexico City on January 11th, 2027. See the [call for talks](https://popl27.sigplan.org/home/frida-2027#call-Call-for-Talks).
+
 ## SDF joins IC3
 November 11th, 2026
 
