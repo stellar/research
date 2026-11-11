@@ -55,7 +55,12 @@ function TeamProfileCard({
           <div className="avatar avatar--vertical">
             <img
               className="avatar__photo avatar__photo--xl"
-              src={localAvatar ? `img/${name}.png` : `${githubUrl}.png`}
+              src={
+                localAvatar
+                  ? // Strip accents: non-ASCII filenames crash `docusaurus serve` on Node 25.
+                    `img/${name.normalize('NFD').replace(/[̀-ͯ]/g, '')}.png`
+                  : `${githubUrl}.png`
+              }
               alt={`${name}'s avatar`}
             />
             <div className="avatar__intro">
