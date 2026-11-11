@@ -8,6 +8,8 @@ slug: /publications
 
 ## 2026
 
+Qianyu Yu, Juan Villacis, Giuliano Losa, Zhuolun Xiang, and Xuechao Wang. ["Simple-IT: Practical Low-Latency Signature-Free BFT Consensus"](https://arxiv.org/abs/2606.14404). To appear in *IEEE Symposium on Security and Privacy (S&P 2027)*.
+
 Qianyu Yu, Giuliano Losa, Nibesh Shrestha, and Xuechao Wang. ["Angelfish: Leader, DAG, or Anywhere in Between"](https://arxiv.org/abs/2509.15847). To appear in *CCS 2026*.
 
 Joseph Tafese, Karthik Nukala, Hassen Saidi, Natarajan Shankar, Arie Gurfinkel, and Giuliano Losa. ["Show Me The Money: An Exercise in Proof-Driven Software Understanding"](https://link.springer.com/chapter/10.1007/978-3-032-32537-2_11). In *Computer Aided Verification ([CAV 2026](https://conferences.i-cav.org/2026/))*.
@@ -16,7 +18,9 @@ Vivien Bammert, Annalisa Cimatti, Orestis Alpos, Giuliano Losa, and Christian Ca
 
 Ali Farahbakhsh, Giuliano Losa, Youer Pu, and Lorenzo Alvisi. ["Fast Deterministically Safe Proof-of-Work Consensus"](https://doi.org/10.1109/SP63933.2026.00102). In *IEEE Symposium on Security and Privacy (S&P 2026)*. [arXiv version](https://arxiv.org/abs/2512.19968).
 
-Qianyu Yu, Juan Villacis, Giuliano Losa, Zhuolun Xiang, and Xuechao Wang. ["Simple-IT: Practical Low-Latency Signature-Free BFT Consensus"](https://arxiv.org/abs/2606.14404). arXiv preprint (2026).
+Idan Baril and Iftach Haitner. ["On the Complexity of Interactive Arguments"](https://eprint.iacr.org/2026/272). To appear in *Crypto 2026*.
+
+Iftach Haitner and Nikolaos Makriyannis. ["Tight Bounds on Uniform-Challenge Black-Box Reductions from Sigma Protocols"](https://eprint.iacr.org/2025/1535). In *Eurocrypt 2026*.
 
 Niv Buchbinder, Iftach Haitner, Nissan Levi, and Eliad Tsfadia. ["Fair Coin Flipping: Tighter Analysis and the Many-Party Case"](https://doi.org/10.1007/s00145-025-09561-6). *Journal of Cryptology* 39(1):4 (2026).
 
@@ -27,13 +31,13 @@ Jack Tigar Humphries, Neel Natu, Kostis Kaffes, Stanko Novaković, Paul Turner, 
 
 Eli Gafni, Giuliano Losa, Michel Raynal, and Gadi Taubenfeld. ["Solving Tasks with Fewer Registers Than Processes"](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2025.21). In *29th International Conference on Principles of Distributed Systems (OPODIS 2025)*.
 
-Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)), ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://dl.acm.org/doi/10.1145/3719027.3765220), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761).
+Nibesh Shrestha (Supra Research), Qianyu Yu (The Hong Kong University of Science and Technology (Guangzhou)), Aniket Kate (Purdue University / Supra Research), Giuliano Losa (Stellar Development Foundation), Kartik Nayak (Duke University), Xuechao Wang (The Hong Kong University of Science and Technology (Guangzhou)), ["Optimistic, Signature-Free Reliable Broadcast and Its Applications"](https://dl.acm.org/doi/10.1145/3719027.3765220), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). [arXiv version](https://arxiv.org/abs/2505.02761). **[Distinguished Paper Award](https://www.sigsac.org/ccs/CCS2025/awards/)**
 
-Jack Doerner (Brown, UVa), Iftach Haitner (TAU, Stellar Foundation), Yuval Ishai (Technion, Amazon/AWS), Nikolaos Makriyannis (Fireblocks), ["From OT to OLE with Subquadratic Communication"](https://doi.org/10.1145/3719027.3765225), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
+Jack Doerner (Brown, UVa), Iftach Haitner (TAU, Stellar Foundation), Yuval Ishai (Technion, Amazon/AWS), Nikolaos Makriyannis (Fireblocks), ["From OT to OLE with Subquadratic Communication"](https://doi.org/10.1145/3719027.3765225), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/). **[Distinguished Paper Award](https://www.sigsac.org/ccs/CCS2025/awards/)**
 
 Joseph Tafese (University of Waterloo), Siddharth Priya (University of Waterloo), Giuliano Losa (Stellar Development Foundation), Arie Gurfinkel (University of Waterloo), and Graydon Hoare (Stellar Development Foundation), ["A Tale of Two Case Studies: A Unified Exploration of Rust Verification with SeaBMC"](https://repositum.tuwien.at/bitstream/20.500.12708/219563/1/Tafese%20Joseph%20-%202025%20-%20A%20Tale%20of%20Two%20Case%20Studies%20A%20Unified%20Exploration%20of%20Rust...pdf), [FMCAD 2025](https://fmcad.org/FMCAD25/)
 
-Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), and Yehuda Lindell (Coinbase). Exponent-VRFs and Their Applications. To appear in [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
+Dan Boneh (Stanford), Iftach Haitner (Stellar Development Foundation), Yehuda Lindell (Coinbase), and Gil Segev (Hebrew University). Exponent-VRFs and Their Applications. In [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). [Preprint](https://eprint.iacr.org/2024/397)
 
 Giuliano Losa (Stellar Development Foundation), Yifan Mao (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University), and Yunqi Zhang (Ohio State University). ["Constellation: Peer-to-Peer Overlays for Federated Byzantine Agreement Systems"](https://link.springer.com/chapter/10.1007/978-3-032-07035-7_9). [FC 2025](https://fc25.ifca.ai/). [Preprint](https://fc25.ifca.ai/preproceedings/280.pdf).
 
@@ -41,7 +45,9 @@ Eli Gafni, Giuliano Losa, Michel Raynal, and Gadi Taubenfeld. ["Brief Announceme
 
 Iftach Haitner and Gil Segev. ["Tighter Concrete Security for the Simplest OT"](https://doi.org/10.62056/AKP2FHSFG). *IACR Communications in Cryptology* 2(1):11 (2025).
 
-Iftach Haitner, Noam Mazor, Jad Silbak, Eliad Tsfadia, and Chao Yan. ["Mildly Accurate Computationally Differentially Private Inner Product Protocols Imply Oblivious Transfer"](https://arxiv.org/abs/2502.15629). arXiv preprint (2025).
+Iftach Haitner, Noam Mazor, Jad Silbak, Eliad Tsfadia, and Chao Yan. ["Mildly Accurate Computationally Differentially Private Inner Product Protocols Imply Oblivious Transfer"](https://arxiv.org/abs/2502.15629). In *Crypto 2025*.
+
+Iftach Haitner, Yehuda Lindell, and Nikolaos Makriyannis. ["Integer Commitments, Old and New Tools"](https://eprint.iacr.org/2025/081). Manuscript (2025).
 
 ## 2024
 
