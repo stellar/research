@@ -10,6 +10,7 @@ slug: /research-grants/grantees
 
 * [Alexander Hoover](https://axhoover.com/about) (Stevens Institute of Technology), Private Information Retrieval for Blockchain Clients: Efficient, Updatable, and Authenticated Constructions
 * [Saba Eskandarian](https://www.cs.unc.edu/~saba/) (University of North Carolina at Chapel Hill) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/) (Duke University), Efficient Multiparty Private Set Union
+* [Bas Spitters](https://www.cs.au.dk/~spitters/) (Aarhus University), Formal Verification of Rust Programs and Smart Contracts using Hax, ConCert, Peregrine and AI Support
 
 ## Q1 2026
 
