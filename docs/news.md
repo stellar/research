@@ -6,6 +6,11 @@ slug: /news
 
 # News
 
+## SDF joins IC3
+November 11th, 2026
+
+The Stellar Development Foundation has joined the [Initiative for Cryptocurrencies and Contracts (IC3)](https://ic3research.org/) as an industry partner.
+
 ## New research papers accepted 
 July 29th, 2026
 
